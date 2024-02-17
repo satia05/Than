@@ -154,20 +154,20 @@ button {
     overflow: hidden;
 
     &:nth-of-type(1) {
-      background: url("https://i.imgur.com/J7UYVzj.jpeg")
+      background: url("https://github.com/satia05/Than/blob/155ac24b45e2f557afaf8632a874fa395add5c72/DSC00207.JPG?raw=true")
         no-repeat 100% / cover;
     }
     &:nth-of-type(2) {
-      background: url("/Users/saktheyaadjeabalane/DSC09121.JPG")
+      background: url("https://github.com/satia05/Than/blob/main/DSC09121.JPG?raw=true")
         no-repeat 100% / cover;
     }
     &:nth-of-type(3) {
-      background: url("/Users/saktheyaadjeabalane/IMG_6365.JPG")
+      background: url("https://github.com/satia05/Than/blob/main/IMG_6365.JPG?raw=true")
         no-repeat 50% / cover;
     }
     &:nth-of-type(4) {
-      background: url("/Users/saktheyaadjeabalane/IMG_4433.HEIC")
-        no-repeat 40% / cover;
+      background: url("https://github.com/satia05/Than/blob/main/IMG_4433.jpg?raw=true")
+        no-repeat 40% / cover;  
     }
 
     .content {
